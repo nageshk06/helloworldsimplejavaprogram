@@ -6,4 +6,3 @@ class Simple{
         System.out.println("I am making changes in jenkins job. It should run");
     }  
     }  
-} 

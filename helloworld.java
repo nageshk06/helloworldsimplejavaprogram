@@ -6,5 +6,6 @@ class helloworld{
         System.out.println("I am making changes in jenkins job. It should run");
         System.out.println("I am running in slave node. I am performing Master-Slave architecture practical.");
         System.out.println("Yes. It is running successfully now");
+        System.out.println("I am running in slave node. I am running this in CentOS machine as slave node.");
     }  
     }  

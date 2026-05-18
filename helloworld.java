@@ -7,5 +7,7 @@ class helloworld{
         System.out.println("I am running in slave node. I am performing Master-Slave architecture practical.");
         System.out.println("Yes. It is running successfully now");
         System.out.println("I am running in slave node. I am running this in CentOS machine as slave node.");
+        System.out.println("I am running in slave node. Now I am running this in Ubuntu machine as slave node in AWS environment.");
+        System.out.println("This is a Multi cloud project now");
     }  
     }  
